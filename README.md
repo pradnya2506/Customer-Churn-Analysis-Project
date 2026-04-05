@@ -1,1 +1,1 @@
-# Customer-Churn-Analysis-Project
+Processed and analyzed 7,000+ customer records using Power Query for data cleaning and transformation, applied DAX measures for churn rate, risk scoring, and revenue impact, and built an interactive Power BI dashboard with advanced data modeling and slicers to identify high-risk customers.
